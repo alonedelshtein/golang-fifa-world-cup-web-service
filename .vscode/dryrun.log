@@ -1,0 +1,4 @@
+make: Entering directory `/Users/alonedelshtein/code/pluralsight/golang-fifa-world-cup-web-service'
+go test -v ./handlers/*
+make: Leaving directory `/Users/alonedelshtein/code/pluralsight/golang-fifa-world-cup-web-service'
+ 
